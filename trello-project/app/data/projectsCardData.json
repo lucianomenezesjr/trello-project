@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Sistema de Gestão",
+    "description": "Aplicação web para controle de estoque e vendas.",
+    "team": [
+      { "name": "Luciano", "image": "https://randomuser.me/api/portraits/men/32.jpg" },
+      { "name": "Maria", "image": "https://randomuser.me/api/portraits/women/44.jpg" },
+      { "name": "João", "image": "https://randomuser.me/api/portraits/men/11.jpg" },
+      { "name": "Clara", "image": "https://randomuser.me/api/portraits/women/65.jpg" },
+      { "name": "Pedro", "image": "https://randomuser.me/api/portraits/men/21.jpg" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Blog Pessoal",
+    "description": "Plataforma moderna para compartilhar artigos e ideias.",
+    "team": [
+      { "name": "Luciano", "image": "https://randomuser.me/api/portraits/men/32.jpg" },
+      { "name": "Maria", "image": "https://randomuser.me/api/portraits/women/44.jpg" },
+      { "name": "João", "image": "https://randomuser.me/api/portraits/men/11.jpg" },
+      { "name": "Clara", "image": "https://randomuser.me/api/portraits/women/65.jpg" },
+      { "name": "Pedro", "image": "https://randomuser.me/api/portraits/men/21.jpg" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Painel Administrativo",
+    "description": "Dashboard para monitoramento de usuários e relatórios.",
+    "team": [
+      { "name": "Luciano", "image": "https://randomuser.me/api/portraits/men/32.jpg" },
+      { "name": "Maria", "image": "https://randomuser.me/api/portraits/women/44.jpg" },
+      { "name": "João", "image": "https://randomuser.me/api/portraits/men/11.jpg" },
+      { "name": "Clara", "image": "https://randomuser.me/api/portraits/women/65.jpg" },
+      { "name": "Pedro", "image": "https://randomuser.me/api/portraits/men/21.jpg" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "App de Clima",
+    "description": "Aplicativo que exibe temperatura e umidade em tempo real.",
+    "team": [
+      { "name": "Luciano", "image": "https://randomuser.me/api/portraits/men/32.jpg" },
+      { "name": "Maria", "image": "https://randomuser.me/api/portraits/women/44.jpg" },
+      { "name": "João", "image": "https://randomuser.me/api/portraits/men/11.jpg" },
+      { "name": "Clara", "image": "https://randomuser.me/api/portraits/women/65.jpg" },
+      { "name": "Pedro", "image": "https://randomuser.me/api/portraits/men/21.jpg" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Loja Virtual",
+    "description": "E-commerce completo com carrinho e sistema de pagamento.",
+    "team": [
+      { "name": "Luciano", "image": "https://randomuser.me/api/portraits/men/32.jpg" },
+      { "name": "Maria", "image": "https://randomuser.me/api/portraits/women/44.jpg" },
+      { "name": "João", "image": "https://randomuser.me/api/portraits/men/11.jpg" },
+      { "name": "Clara", "image": "https://randomuser.me/api/portraits/women/65.jpg" },
+      { "name": "Pedro", "image": "https://randomuser.me/api/portraits/men/21.jpg" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Portfolio Dev",
+    "description": "Site pessoal para exibir projetos e habilidades técnicas.",
+    "team": [
+      { "name": "Luciano", "image": "https://randomuser.me/api/portraits/men/32.jpg" },
+      { "name": "Maria", "image": "https://randomuser.me/api/portraits/women/44.jpg" },
+      { "name": "João", "image": "https://randomuser.me/api/portraits/men/11.jpg" },
+      { "name": "Clara", "image": "https://randomuser.me/api/portraits/women/65.jpg" },
+      { "name": "Pedro", "image": "https://randomuser.me/api/portraits/men/21.jpg" }
+    ]
+  }
+]
