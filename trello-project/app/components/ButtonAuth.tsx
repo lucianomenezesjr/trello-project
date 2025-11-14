@@ -1,6 +1,7 @@
 interface ButtonProps{
 
     label: string
+    
 }
 
 export default function ButtonAuth({label}: ButtonProps){

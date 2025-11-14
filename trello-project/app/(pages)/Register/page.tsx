@@ -44,7 +44,10 @@ export default function Register(){
                         </label>
                     </div>
                     
-                    <ButtonAuth label="Registrar" />
+                    <ButtonAuth 
+                        label="Registrar" 
+                        
+                    />
                     <div className="mt-2">
                         <label htmlFor="privacy" className="text-lg">
                             Já tem um usuário? {" "}
